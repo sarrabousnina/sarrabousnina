@@ -24,9 +24,11 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript/TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Groq](https://img.shields.io/badge/-Groq-F05A28?style=flat&logo=image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQTEwIDEwIDAgMCAwIDIgMTJhMTAgMTAgMCAwIDAgMTAgMTBhMTAgMTAgMCAwIDAtMTAtMTBAbTAgMThhOCA4IDAgMCAxLTgtOGg4djhhOGggMCAwIDEgOCA4eiIvPjwvc3ZnPg==)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -43,9 +45,9 @@
 
 | Challenge | Solution |
 |---|---|
-| **Manual exam grading** | → **CorrectMeAI**: Full-stack app with **OCR → LLM → RAG → ReAct agent** + memory |
-| **Content creation fatigue** | → **inspireAI**: SaaS with **Groq/OpenRouter**, image analysis, and personalized agentic chat |
-| **Low student productivity** | → **TimeForge**: Mood analysis (**DeepFace**), distraction detection, NLP advice (**1st Prize**) |
+| **Manual exam grading** | → **CorrectMeAI**: Full-stack app (**React + Flask + MongoDB**) with **OCR → LLM → RAG → ReAct agent** |
+| **Content creation fatigue** | → **inspireAI**: SaaS (**React + TypeScript + FastAPI + PostgreSQL**) with **Groq/OpenRouter** & agentic workflows |
+| **Low student productivity** | → **TimeForge**: Modular app (**Spring Boot + Angular + DeepFace**) with mood analysis & NLP advice (**1st Prize**) |
 | **Fragmented drug discovery** | → **Your Lab Twin AI**: Unified agentic platform (**1st Prize Hackathon**) |
 
 ### 🌍 Languages
@@ -63,7 +65,7 @@
 
 - **Agentic AI workflows** with memory, reflection, and tool use
 - **Explainable AI (XAI)** in education and assessment
-- **Open-source contributions** in LangChain, RAG, and vector DB ecosystems
+- **Full-stack AI applications** with **FastAPI**, **Flask**, and modern frontends
 - **International internships** in **Generative AI**, **AI Engineering**, or **Full-Stack AI**
 
 > ✨ **Open to AI/ML engineering internships & collaborative opportunities!**  
