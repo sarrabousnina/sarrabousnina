@@ -24,7 +24,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript/TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOS44IDE0LjFsLTEuNzUtLjg3NUw3LjQgMjNoNS4yVjE5LjVsMi4wNS0xLjAyNUw2LjQgOS4zVjJoLTJ2Ny4zTDE2LjIgMjEuMXYtMS43bDIuNi0xLjN6TTcuNCAyaDIuNVY5LjNsLTIuNS0xLjJ6Ii8+PC9zdmc+)
 ![Groq](https://img.shields.io/badge/-Groq-F05A28?style=flat&logo=image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQTEwIDEwIDAgMCAwIDIgMTJhMTAgMTAgMCAwIDAgMTAgMTBhMTAgMTAgMCAwIDAtMTAtMTBAbTAgMThhOCA4IDAgMCAxLTgtOGg4djhhOGggMCAwIDEgOCA4eiIvPjwvc3ZnPg==)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
